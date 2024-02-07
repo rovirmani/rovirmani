@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I'm a Computer Science and Data Science student at the University of California, Berkeley. In my free time, I enjoy solving puzzle games, playing poker, and learning about probability and statistics. Currently working on implementing some ML papers and becoming a better engineer. 
 
-In the past, I've worked on:
+In my past, I've worked on:
 - Cryptography software at [Cisco](https://www.cisco.com)
 
 <div align="center">
