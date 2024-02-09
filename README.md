@@ -18,12 +18,12 @@ I'm a Computer Science and Data Science student at the University of California,
 
 Recently, I've worked on:
 - Cryptography software at [Cisco](https://www.cisco.com)
-
+<!--
 <div align="center">
   <img src="https://github.com/rovirmani/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-  <!-- <img src="https://github.com/rovirmani/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" /> -->
+  <img src="https://github.com/rovirmani/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" /> 
   <img src="https://github.com/rovirmani/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only" />
-  <!-- <img src="https://github.com/rovirmani/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" /> -->
+  <img src="https://github.com/rovirmani/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" /> 
 </div>
-
+-->
 Feel free to email or message me on any linked socials if you would like to chat!
