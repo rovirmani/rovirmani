@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a Computer Science and Data Science student at the University of California, Berkeley. In my free time, I enjoy solving puzzle games, playing poker, and learning about probability and statistics. Currently working on implementing some ML papers and becoming a better engineer. 
+I'm a Computer Science and Data Science student at the University of California, Berkeley. In my free time, I enjoy solving puzzle games, playing poker, and learning about probability and statistics. Currently working on implementing some ML papers and becoming a better engineer. Currently working on distributed systems and edge caching @ 
 
 Recently, I've worked on:
 - Cryptography software at [Cisco](https://www.cisco.com)
